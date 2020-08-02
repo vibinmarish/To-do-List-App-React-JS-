@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Form, Input } from 'reactstrap'
+import propTypes from 'prop-types';
 
 export default class AddTodo extends Component {
     state = {
@@ -25,4 +26,9 @@ export default class AddTodo extends Component {
 
         )
     }
+}
+
+AddTodo.propTypes = {
+    addTodo: propTypes.func.isRequired
+    
 }

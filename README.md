@@ -1,15 +1,3 @@
-## Requirements
-
-- React JS
-
-- React-Strap
-
-- Bootstrap
-
-- React-Router
-
-![Alt text](https://github.com/vibinmarish/To-do_List_App_React-JS/blob/master/Screenshot-home.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
