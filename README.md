@@ -8,7 +8,7 @@
 
 - React-Router
 
-![Alt text](https://github.com/vibinmarish/To-do_List_App_React-JS/blob/master/Screenshot-home.png)
+<img src="https://github.com/vibinmarish/To-do_List_App_React-JS/blob/master/Screenshot-home.png" width="400" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
